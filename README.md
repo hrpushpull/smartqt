@@ -1,1 +1,2 @@
 # smartqt
+# -Jason initial checkin
